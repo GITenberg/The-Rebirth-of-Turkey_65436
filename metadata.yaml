@@ -1,0 +1,35 @@
+_repo: The-Rebirth-of-Turkey_65436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Price, Clair
+    gutenberg_agent_id: '53344'
+    url: http://www.gutenberg.org/2009/agents/53344
+description: ''
+gutenberg_issued: '2021-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65436'
+  lccn: '23017930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (1914-1939) -- Turkey'
+- !lcsh 'Turkey -- Foreign relations'
+- !lcsh 'Turkey -- Politics and government'
+- !lcc 'DR'
+- !lcsh 'Ittihat ve Terakki Cemiyeti'
+- !lcsh 'Atatürk, Kemal, 1881-1938'
+- GITenberg
+tableOfContents: Mustapha Kemal Pasha, the man -- The Old Ottoman Empire -- The Young
+  Turkish program -- The Russian menace -- The Young Turkish Revolution -- Germany
+  and the Ottoman Empire -- Christendom and the war -- The war and Islam -- The Armenian
+  deportations of 1915 -- The 1907 Treaty and the Caliphate -- The collapse of Czarist
+  Russia -- The Anglo-Russian war of 1918-'20 -- The Greco-Turkish war begins -- Smyrna,
+  1919 -- The Orthodox schism in Anatolia -- The Treaty of Sevres -- Angora -- Turkish
+  nationalism -- Smyrna, 1922 -- The real problem of Turkish nationalism -- The rebirth
+  of Turkey.
+title: The Rebirth of Turkey
+url: http://www.gutenberg.org/ebooks/65436
